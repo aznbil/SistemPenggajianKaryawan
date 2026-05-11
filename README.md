@@ -55,7 +55,7 @@ SistemPenggajianKaryawan
 │   │   └── DatabaseConnection.java
 │   │
 │   ├── view
-│   │   └── MainFrame.java (JFrame Form - drag n drop)
+│   │   └── MainFrame.java
 │   │
 │   └── controller
 │       ├── KaryawanController.java
